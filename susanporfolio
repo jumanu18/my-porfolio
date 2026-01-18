@@ -1,0 +1,145 @@
+<!DOCTYPE htm>
+<Html>
+<head>
+<title> PORFOLIO </title>
+<style>
+    body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+        nav a {
+            margin: 0 10px;
+            text-decoration: none;
+            color: red;
+        }
+        #about p {
+            font-size: 18px;
+			color: blue;
+        }
+        #skills p {
+            font-size: 18px;
+            color: blue;
+        }
+		#skills h3 {
+			font-size: 24px;
+			color: purple;
+			
+		#contact p {
+			font-size: 24px;
+			}
+    </style>
+	
+</head>
+<body>
+<header>
+        <h1>My Portfolio</h1>
+        <nav>
+            <a href="#about">About Me</a> |
+			
+            <a href="#skills">Skills</a> |
+			
+            <a href="#contact">Contact</a>
+        </nav>
+        <hr>
+    </header>
+<section id="about" >
+<h2> About me </h2>
+<P>My name is Susan Masaki, and I am a passionate and dedicated tailor with over 20 years of experience in creating beautiful, custom-made clothing for men, women, and children. From traditional wear to modern fashion, I specialize in designing outfits that are not only stylish but also perfectly tailored to fit each client’s unique body shape and personal style. </P>
+<p>I specialize in designing and creating custom clothing for every occasion, including casual wear, formal attire, traditional outfits, and bespoke designs. Every piece I create is unique and tailored to the individual needs of my clients. I believe that clothing is not just fabric sewn together—it is a way to express personality, culture, and style. That’s why I take the time to understand the vision of each client, ensuring that every stitch, seam, and hem reflects their preferences and personality. </p>
+<p>In my workshop, creativity meets precision. I work carefully with each material, choosing the right fabrics, patterns, and designs to create garments that are both beautiful and durable. My attention to detail is what sets me apart—every button, zipper, fold, and stitch is thoughtfully executed to ensure perfection.</p>
+<p>Beyond tailoring, I am passionate about helping my clients explore new fashion ideas. I stay updated with modern trends while honoring timeless tailoring techniques, blending innovation with tradition. From embroidery and embellishments to alterations and custom fittings, I provide a wide range of services that cater to diverse tastes and styles.</p>
+<p>What I love most about my work is the joy it brings. Seeing a client smile with confidence after wearing something I’ve created is incredibly rewarding. Each garment tells a story, and my goal is to help you look and feel your absolute best, whether it’s for everyday wear, a special event, or a once-in-a-lifetime occasion.</p>
+<p>I invite you to explore my portfolio, where you will find examples of my work that showcase my dedication, skill, and creativity. If you have a vision for a garment or simply want something uniquely yours, I would be honored to bring that vision to life. My commitment is to excellence, beauty, and personalized service, ensuring that every client leaves with not just clothing, but an experience of care and craftsmanship.</p>
+</section>
+<div class="image-container">
+<img src="C:\Users\USER\Desktop\New folder\tailor.jpg" alt="Tailor at work" style="width:250px;height:250px;" alt="1">
+<img src="C:\Users\USER\Desktop\New folder\kitenge.jpg" alt="kitenge at work" style="width:250px;height:250px;" alt="2">
+<img src="C:\Users\USER\Desktop\New folder\children.jpg" alt="children at work" style="width:250px;height:250px;" alt="3">
+<img src="C:\Users\USER\Desktop\New folder\china.jpg" alt="china at work" style="width:250px;height:250px;" alt="4">
+
+</div>
+<hr>
+<section id="skills" >
+<h3> Skills & Expertise </h3>
+ <p>
+        Over the years, I have developed a diverse set of skills that allow me to create garments that are both beautiful and perfectly tailored. My skills extend beyond simply sewing clothes; they include design, fabric selection, craftsmanship, and client consultation.
+    </p>
+
+    <h3>1. Custom Garment Design</h3>
+    <p>
+        I excel at creating unique, custom-made designs that cater to the individual tastes and preferences of each client. From casual wear to formal attire, traditional clothing to contemporary fashion, I can translate ideas into wearable art.
+    </p>
+	<hr>
+    <h3>2. Precision Sewing & Tailoring</h3>
+    <p>
+        Precision is at the heart of everything I do. I take pride in perfectly measuring, cutting, and stitching each garment to ensure a flawless fit. Every seam, hem, and edge is executed with meticulous attention to detail.
+    </p>
+	<hr>
+    <h3>3. Alterations & Repairs</h3>
+    <p>
+        I provide professional alteration services to make sure your clothes fit perfectly. From resizing garments to adjusting hems, sleeves, and waistlines, I ensure every piece is comfortable and tailored specifically for the wearer.
+    </p>
+	<hr>
+    <h3>4. Fabric Knowledge & Selection</h3>
+    <p>
+        Choosing the right fabric is essential for creating garments that look and feel great. I have extensive knowledge of fabrics like cotton, silk, linen, denim, chiffon, and more, helping clients select materials that match their vision.
+    </p>
+	<hr>
+    <h3>5. Embroidery & Decorative Techniques</h3>
+    <p>
+        I specialize in adding beautiful decorative details to garments, including embroidery, appliqué, lacework, and other embellishments, creating one-of-a-kind pieces that truly stand out.
+    </p>
+	<hr>
+    <h3>6. Client Consultation & Personalized Service</h3>
+    <p>
+        I take the time to listen carefully to clients needs, providing guidance on design choices, colors, fabrics, and styles, ensuring the final garment aligns perfectly with their vision.
+    </p>
+	<hr>
+    <h3>7. Trend Awareness & Creative Innovation</h3>
+    <p>
+        I continuously explore fashion trends and new design ideas, blending traditional tailoring techniques with modern styles to create garments that are timeless yet contemporary.
+    </p>
+	<hr>
+    <h3>8. Time Management & Project Coordination</h3>
+    <p>
+        I carefully plan and organize my work, managing multiple garments and projects simultaneously, ensuring each client receives their orders promptly and professionally.
+    </p>
+	<hr>
+    <h3>9. Attention to Detail & Quality Control</h3>
+    <p>
+        From the first cut to the final stitch, I maintain high standards of quality in every garment I create, ensuring clothing that is durable, comfortable, and visually stunning.
+    </p>
+	<hr>
+    <h3>10. Passion & Dedication</h3>
+    <p>
+        What truly sets me apart is my love for tailoring. Every garment I create reflects my dedication, creativity, and desire to make clients feel beautiful and confident.
+    </p>
+</section>
+<hr>
+<section id="contact" >
+<h4> Contact Me </h4>
+    <p>If you would like to get in touch, please fill out the form below and I will get back to you as soon as possible.</p>
+<form action="https://formsubmit.co/eliudmwendwa45@gmail.com" method="POST">
+  <label for="name">Name:</label><br>
+        <input type="text" id="name" name="name" placeholder="Enter your full name" required><br><br>
+	<label for="email">Email:</label><br>
+        <input type="email" id="email" name="email" placeholder="Enter your email address" required><br><br>
+	 <label for="phone">Phone Number:</label><br>
+        <input type="tel" id="phone" name="phone" placeholder="Enter your phone number" required><br><br>
+		 <input type="submit" value="Send Message">
+</section>
+<hr>
+<hr>
+<hr>
+<hr>
+<footer id="main-footer">
+    <div class="footer-content">
+        <p>&copy; 2024 Susan Isaac Portfolio. All rights reserved.</p>
+        <div class="social-links">
+            <a href="https://web.facebook.com/photo/?fbid=1982773138667426&set=a.1382054168739329&__tn__=%3C" target="_blank">Facebook</a> | 
+            <a href="https://www.instagram.com/suzzie_smart/?hl=en" target="_blank">Instagram</a>
+        </div>
+    </div>
+</footer>
+</body>
+</html>
